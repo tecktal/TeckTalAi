@@ -1,0 +1,36 @@
+services:
+  postgres:
+    image: postgis/postgis:13-3.4-alpine
+    environment:
+      POSTGRES_USER: directus
+      POSTGRES_PASSWORD: directus
+      POSTGRES_DB: directus
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  directus:
+    image: directus/directus:latest
+    depends_on:
+      - postgres
+    environment:
+      SECRET: "replace-with-random-value"
+      ADMIN_EMAIL: "your-admin-username@example.com"
+      ADMIN_PASSWORD: "your-your-admin-username-password"
+      DB_CLIENT: "pg"
+      DB_HOST: "postgres"
+      DB_PORT: "5432"
+      DB_DATABASE: "directus"
+      DB_USER: "directus"
+      DB_PASSWORD: "directus"
+    ports:
+      - "8055:8055"
+    volumes:
+      - ./database:/directus/database
+      - ./uploads:/directus/uploads
+      - ./extensions:/directus/extensions
+
+volumes:
+  postgres_data:
+  directus_uploads:
