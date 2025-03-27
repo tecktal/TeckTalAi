@@ -2,7 +2,7 @@ from directus_sdk_py import DirectusClient
 from lms_data_schema.lms_folder_schema import *
 
 # Initialize the Directus client and authenticate using admin credentials
-client = DirectusClient(url="http://localhost:8060/")
+client = DirectusClient(url="http://localhost:8055/")
 client.login(email="admin@example.com", password="your-admin-password")
 
 # Create folders
