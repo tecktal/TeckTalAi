@@ -48,8 +48,11 @@ Before proceeding, ensure you have the following installed:
    
    cd TeckTal_AI
    ```
-
-2. **Launch the Directus Component**
+2. **Install python dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. **Launch the Directus Component**
    ```bash
    cd knowledge_database_layer/directus
    
@@ -58,7 +61,7 @@ Before proceeding, ensure you have the following installed:
 
    This command will launch the Directus instance on your local machine (typically accessible at http://localhost:8055). Log in with the your-admin-username credentials provided and start configuring your collections as described in the project documentation.
 
-3. **Generate all lms database**
+4. **Generate all lms database**
    ```bash
    cd knowledge_database_layer/python_scripts
    
