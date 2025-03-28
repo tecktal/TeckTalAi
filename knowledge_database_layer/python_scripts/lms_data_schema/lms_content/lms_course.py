@@ -24,12 +24,16 @@ lms_course = {
       "type": "uuid",
       "meta": {
         "icon": "id",
-        "readonly": True,  # Make it read-only to prevent editing
-        "hidden": True      # Hide it in the Data Studio UI
+        "hidden": True,
+        "readonly": True,
+        "interface": "input",
+        "special": ["uuid"],  # Crucial for auto-generating UUID
+        "required": True
       },
       "schema": {
         "is_primary_key": True,
-        "is_nullable": False
+        "is_nullable": False,
+        "is_generated": True
       }
     }
 	]

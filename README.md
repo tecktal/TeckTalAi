@@ -1,5 +1,5 @@
 # TeckTal AI: Domain-Specific LLM with RAG and Knowledge Database
-
+![LMS architecture in directus](./assets/img/tecktalAi.jpeg)
 ## Overview
 
 Welcome to **TeckTal AI**, an open-source project designed to streamline the specialization of large language models (LLMs) using Retrieval-Augmented Generation (RAG) for short-term tasks and fine-tuning for long-term learning, all powered by a dynamic knowledge database. 
@@ -22,7 +22,7 @@ Our Learning Management System (LMS) architecture is designed to be modular and 
 
 
 
-   ![LMS architecture in directus](./assets/img/lms_class_diagram.png)
+   ![LMS architecture in directus](./assets/img/lms_class_diagram1.png)
 
 
 
@@ -60,7 +60,7 @@ Before proceeding, ensure you have the following installed:
    
    docker compose up -d
    ```
-
+****
    This command will launch the Directus instance on your local machine (typically accessible at http://localhost:8055). Log in with the your-admin-username credentials provided and start configuring your collections as described in the project documentation.
 
 4. **Generate all lms database**
