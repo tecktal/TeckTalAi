@@ -21,7 +21,9 @@ The first major component of our system is the knowledge database, powered by [D
 Our Learning Management System (LMS) architecture is designed to be modular and extensible. It consists of several interconnected components, including courses, modules, lessons, instructors, quizzes, and more. The architecture diagram below illustrates how these components interact with one another and how they are mapped into the Directus CMS.
 
 
-<!-- ![LMS Architecture Diagram](path/to/architecture_diagram.png) -->
+
+   ![LMS architecture in directus](./assets/img/lms_class_diagram.png)
+
 
 
 In Directus, each LMS component is implemented as a collection with fields defined to represent the data schema. For example, the `lms_course` collection contains fields such as `title`, `slug`, and `description`, and is linked to other collections like `lms_modules` and `lms_instructors`. This modular design allows us to easily extend the system to other domains over time.
@@ -71,4 +73,6 @@ Before proceeding, ensure you have the following installed:
    This script will create the entire structured LMS database including the collections, the fields, the relationships.
    The image below illustrates how these components are supposed to display.
    
-   ![LMS architecture in directus](./assets/img/data_model_directus.png)
+
+
+![LMS architecture in directus](./assets/img/data_model_directus.png)
