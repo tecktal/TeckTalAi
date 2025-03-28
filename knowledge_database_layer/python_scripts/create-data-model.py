@@ -125,3 +125,8 @@ create_multiple_fields_in_collection(lms_track_fields)
 create_multiple_fields_in_collection(lms_topics_fields)
 
 # Create Relationships
+try :
+    client.post("/relations", json=lms_module_relation_data)
+    print("Relation created successfully:")
+except Exception as e:
+    print(f"Error creating relation: {e}")

@@ -163,3 +163,17 @@ lms_modules_fields = [
         }
     }
 ]
+
+lms_module_relation_data = {
+
+    "collection": "lms_module",  # The "many" side collection
+    "field": "course",  # Field in lms_module that references the course
+    "related_collection": "lms_course",  # The "one" side collection
+    "meta": {
+        "many_collection": "lms_module",
+        "many_field": "course",
+        "one_collection": "lms_course",
+        "one_field": "modules",  # Optional: field on the course side referencing modules
+        "one_deselect_action": "nullify"  # What happens when a course is deleted
+    }
+}
