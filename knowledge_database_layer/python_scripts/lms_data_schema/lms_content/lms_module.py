@@ -37,6 +37,34 @@ lms_module = {
 }
 
 lms_modules_fields = [
+{
+    "collection": "lms_module",
+    "field": "course",
+    "type": "uuid",  # Assuming course uses UUID, adjust if different
+    "meta": {
+        "collection": "lms_module",
+        "field": "course",
+        "interface": "select-dropdown-m2o",
+        "options": {
+            "template": "{{title}}",
+            "limit": 10,
+            "placeholder": "Select a course"
+        },
+        "special": ["m2o"],  # Many-to-One relationship
+        "required": False,
+        "sort": 7,  # Adjust sort order as needed
+        "width": "full",
+        "note": "Related Course"
+    },
+    "schema": {
+        "name": "course",
+        "table": "lms_module",
+        "data_type": "uuid",
+        "is_nullable": True,
+        "foreign_key_table": "lms_course",
+        "foreign_key_column": "id"
+    }
+},
     {
         "collection": "lms_module",
         "field": "status",
@@ -150,7 +178,7 @@ lms_modules_fields = [
         "meta": {
             "collection": "lms_module",
             "field": "description",
-            "interface": "wysiwyg",
+            "interface": "input-rich-text-html",
             "sort": 6,
             "width": "full",
             "note": "Description of the module"

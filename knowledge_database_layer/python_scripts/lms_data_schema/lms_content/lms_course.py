@@ -28,7 +28,6 @@ lms_course = {
         "readonly": True,
         "interface": "input",
         "special": ["uuid"],  # Crucial for auto-generating UUID
-        "required": True
       },
       "schema": {
         "is_primary_key": True,
@@ -40,6 +39,9 @@ lms_course = {
 }
 
 lms_course_fields = [
+#RELATION FIELD
+
+#REGULAR FIELD
     {
         "collection": "lms_course",
         "field": "status",
@@ -193,7 +195,7 @@ lms_course_fields = [
         "meta": {
             "collection": "lms_course",
             "field": "description",
-            "interface": "Text",
+            "interface": "input-multiline",
             "sort": 9,
             "width": "full",
             "note": "Short description of the course"
@@ -212,7 +214,7 @@ lms_course_fields = [
         "meta": {
             "collection": "lms_course",
             "field": "description_long",
-            "interface": "WYSIWYG",
+            "interface": "input-rich-text-html",
             "sort": 10,
             "width": "full",
             "note": "Long description of the course"
