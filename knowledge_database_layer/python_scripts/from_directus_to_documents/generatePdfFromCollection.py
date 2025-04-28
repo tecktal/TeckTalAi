@@ -9,16 +9,18 @@ client = DirectusClient(url="https://lms.tecktal.ai/", token="6HZNyNOEL4d-oKLbHR
 course_collection_name = "lms_courses"
 module_collection_name = "lms_modules"
 lesson_collection_name = "lms_lessons"
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Path to your Unicode TrueType font
-FONT_PATH = os.path.join(os.path.dirname(__file__), "fonts/DejaVuSans.ttf")
+FONT_FOLDER = os.path.join(CURRENT_DIR, "fonts")
+FONT_PATH_REGULAR = os.path.join(FONT_FOLDER, "DejaVuSans.ttf")
+FONT_PATH_BOLD = os.path.join(FONT_FOLDER, "DejaVuSans-Bold.ttf")
 
-# Custom PDF class to format headers properly
 class PDF(FPDF):
     def __init__(self):
         super().__init__()
-        self.add_font('DejaVu', '', FONT_PATH, uni=True)
-        self.set_font('DejaVu', '', 14)
+        self.add_font('DejaVu', '', FONT_PATH_REGULAR, uni=True)  # regular
+        self.add_font('DejaVu', 'B', FONT_PATH_BOLD, uni=True)    # bold
+        self.set_auto_page_break(auto=True, margin=15)
 
     def header(self):
         self.set_font('DejaVu', 'B', 16)
