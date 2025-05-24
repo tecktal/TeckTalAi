@@ -1,9 +1,12 @@
 import os
 import json
-from directus_sdk_py import DirectusClient
+from knowledge_database_layer.config.directus_config import get_directus_client
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Initialize Directus client
-client = DirectusClient(url="https://lms.tecktal.ai/", token="6HZNyNOEL4d-oKLbHRafYbliDEZ3LIWj")
+client = get_directus_client()
 
 # Define collection names
 course_collection_name = "lms_courses"
