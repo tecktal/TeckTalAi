@@ -1,9 +1,8 @@
-from directus_sdk_py import DirectusClient
+from knowledge_database_layer.config.directus_config import get_directus_client_with_credentials
 from lms_data_schema.lms_folder_schema import *
 
 # Initialize the Directus client and authenticate using your-admin-username credentials
-client = DirectusClient(url="http://localhost:8055/")
-client.login(email="your-admin-username@example.com", password="your-your-admin-username-password")
+client = get_directus_client_with_credentials()
 
 # Create folders
 if not client.collection_exists(lms_schema['collection']):
