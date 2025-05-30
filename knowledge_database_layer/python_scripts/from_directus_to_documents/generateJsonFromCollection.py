@@ -1,21 +1,19 @@
 import os
 import json
-from knowledge_database_layer.config.directus_config import get_directus_client
-from dotenv import load_dotenv
-
-load_dotenv()
+from directus_sdk_py import DirectusClient
 
 # Initialize Directus client
-client = get_directus_client()
+client = DirectusClient(url="https://lms.tecktal.ai/", token="gE-Rd6oO2pbkolA8keNtihRnBs7qbU7m")
 
 # Define collection names
 course_collection_name = "lms_courses"
 module_collection_name = "lms_modules"
 lesson_collection_name = "lms_lessons"
+assignment_collection_name = "lms_assignment"
+resource_collection_name = "lms_resources"
 
 # Fetch all courses
 courses = client.get_items(course_collection_name)
-
 for selected_course in courses:
     # Structure the course data
     course_data = {
@@ -25,6 +23,7 @@ for selected_course in courses:
         "status": selected_course["status"],
         "description": selected_course["description"],
         "description_long": selected_course["description_long"],
+        "live_preview": selected_course["live_preview"],
         "modules": []
     }
 
@@ -45,6 +44,7 @@ for selected_course in courses:
             "id": module["id"],
             "title": module["title"],
             "description": module["description"],
+            "live_preview": module["live_preview"],
             "lessons": []
         }
 
@@ -68,9 +68,68 @@ for selected_course in courses:
                 "video_url": lesson["video_url"],
                 "video_duration": lesson["video_duration"],
                 "video_transcript": lesson["video_transcript"],
-                "content": lesson["content"]
+                "content": lesson["content"],
+                "live_preview": lesson["live_preview"]
             }
+                    # Fetch assignments related to this lesson
+            assignment_filter = {
+                "query": {
+                    "filter": {
+                        "lesson": {
+                            "_eq": lesson["id"]
+                        }
+                    }
+                }
+            }
+            resource_filter = {
+                "query": {
+                    "filter": {
+                        "lesson": {
+                            "_eq": lesson["id"]
+                        }
+                    }
+                }
+            }
+
+            assignments = client.get_items(assignment_collection_name, assignment_filter)
+            print(assignments)
+            resources = client.get_items(resource_collection_name, resource_filter)
+            
+            # Add assignments data
+            lesson_data["assignments"] = []
+            if assignments and isinstance(assignments, list):  # Check if it's a valid list
+                for assignment in assignments:
+                    if isinstance(assignment, dict):  # Only process if it's a valid dictionary
+                        assignment_data = {
+                            "id": assignment.get("id", ""),
+                            "title": assignment.get("title", ""), 
+                            "description": assignment.get("description", ""),
+                            "instructions": assignment.get("instructions", ""),
+                            "file": assignment.get("file", ""),
+                            "live_preview": assignment.get("live_preview", "")
+                        }
+                        lesson_data["assignments"].append(assignment_data)
+
+            # Add resources data
+            lesson_data["resources"] = []
+            if resources and isinstance(resources, list):  # Check if it's a valid list
+                for resource in resources:
+                    if isinstance(resource, dict):  # Only process if it's a valid dictionary
+                        resource_data = {
+                            "id": resource.get("id", ""),
+                            "resource_type": resource.get("resource_type", ""),
+                            "url": resource.get("url", ""),
+                            "file": resource.get("file", ""),
+                            "title": resource.get("title", ""),
+                            "description": resource.get("description", ""),
+                            "live_preview": resource.get("live_preview", "")
+                        }
+                        lesson_data["resources"].append(resource_data)
+
             module_data["lessons"].append(lesson_data)
+
+
+        
 
         course_data["modules"].append(module_data)
 
