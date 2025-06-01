@@ -122,13 +122,13 @@ To bridge **Directus** and **AnythingLLM**, we developed custom scripts (include
 
 These JSON files are generated from the `lms_course`, `lms_module`, and `lms_lesson` collections and are enriched with metadata needed for the chatbot to understand educational context.
 
-![Resulting  generated document](./assets/img/generated_document.png)
+![Resulting  generated document](./assets/generated_document.png)
 
 #### Step 3: Connecting to AnythingLLM Workspace
 
 Once the JSON files are created, they are programmatically added to a specific **AnythingLLM workspace**. This allows the chatbot to be trained on real course content and become capable of answering student or teacher questions in context.
 
-![AnythingLLM](./assets/img/anythingLLmworkspace.png)
+![AnythingLLM](./assets/anythingLLmworkspace.png)
 
 ---
 
@@ -146,4 +146,4 @@ Once the JSON files are created, they are programmatically added to a specific *
 - **No More Knowledge Gaps:**  
   The knowledge database becomes **fully explorable, searchable, and conversationally accessible**.
 
-![anythingLLM integrated to directus](./assets/img/directu_anythingllm.png)
+![anythingLLM integrated to directus](./assets/directu_anythingllm.png)
