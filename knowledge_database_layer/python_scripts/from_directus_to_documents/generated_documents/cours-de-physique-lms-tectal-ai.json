@@ -1,0 +1,291 @@
+{
+    "id": "92e72727-1c04-4e14-b4c9-78da11aa30b7",
+    "title": "Cours de Physique TS1",
+    "slug": "cours-de-physique-lms-tectal-ai",
+    "status": "draft",
+    "description": "Ce cours de physique est de niveau 3 et est destinés aux apprenants ayant des pré-requis solide en mathématiques et en physiques\nIl vise à vous rendre expert et vous prépare aux concours très sélectif",
+    "description_long": null,
+    "live_preview": false,
+    "modules": [
+        {
+            "id": "ace1000d-d118-4474-bfe4-e7f157286fde",
+            "title": "Module 1: Introduction à la physique",
+            "description": "Ce module introductif vous fait une description générale de la physique en précisant ses différents sous domaines et le but recherché dans chaque partie",
+            "live_preview": false,
+            "lessons": [
+                {
+                    "id": "a855812d-ccab-4e33-815b-9eeb5eb59aef",
+                    "title": "Leçon 1 : les principes fondamentaux de la physique",
+                    "slug": "lesson-1-the-fundamental-principles-of-physics",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "1169c0dd-d5c9-4696-bdb8-518db8dd059e",
+                    "title": "Lesson 2: Understanding Physical Quantities and Measurements",
+                    "slug": "lesson-2-understanding-physical-quantities-and-measurements",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "cadbc1cd-85a3-498a-9967-ed2439910eeb",
+                    "title": "Leçon 3: La dynamique Bases et applications",
+                    "slug": "les-bases-de-la-dynamique-application-des-base-de-la-dynamique",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "018f351d-caff-49c4-a373-f1f959124900",
+                    "title": "Lesson 4: The Laws of Thermodynamics",
+                    "slug": "lesson-4-the-laws-of-thermodynamics",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "a85fbac1-5b9b-429a-938b-7a866e78b172",
+                    "title": "Lesson 5: An Overview of Electromagnetism",
+                    "slug": "lesson-5-an-overview-of-electromagnetism",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "cd22b493-1b04-4869-b2a4-3921dfdb5a52",
+                    "title": "Leçon 4: Apperçue de la physique Moderne",
+                    "slug": "lesson-4-an-overview-of-modern-physics",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": "<section>\n<h2>Le&ccedil;on 4: Aper&ccedil;u de la Physique Moderne</h2>\n<p>La physique moderne, qui a &eacute;volu&eacute; depuis le 20e si&egrave;cle, aborde les ph&eacute;nom&egrave;nes qui d&eacute;passent les limites de la physique classique. Elle englobe les th&eacute;ories r&eacute;volutionnaires de la relativit&eacute; et de la m&eacute;canique quantique. Ces th&eacute;ories ont ouvert la voie &agrave; une compr&eacute;hension plus approfondie de l'univers, mais elles ont &eacute;galement soulev&eacute; de nombreux d&eacute;fis. Dans cette le&ccedil;on, nous explorerons certains des plus grands d&eacute;fis actuels en physique moderne.</p>\n<h3>Les Grands D&eacute;fis de la Physique Moderne</h3>\n<h4>1. Th&eacute;orie de la Gravitation Quantique</h4>\n<p>La th&eacute;orie de la relativit&eacute; g&eacute;n&eacute;rale d'Einstein et la m&eacute;canique quantique sont deux piliers fondamentaux de la physique moderne, mais elles sont incompatibles entre elles dans certaines conditions extr&ecirc;mes. Une th&eacute;orie de la gravitation quantique cherche &agrave; unifier ces deux concepts pour comprendre le fonctionnement de l'univers &agrave; toutes les &eacute;chelles.</p>\n<h4>2. Mati&egrave;re Noire et &Eacute;nergie Noire</h4>\n<p>Une grande partie de l'univers est compos&eacute;e de mati&egrave;re noire et d'&eacute;nergie noire, des &eacute;l&eacute;ments que nous ne pouvons ni voir ni d&eacute;tecter directement. Leur nature reste l'un des plus grands myst&egrave;res de la physique moderne, et leur compr&eacute;hension est cruciale pour expliquer la structure et l'&eacute;volution de l'univers.</p>\n<h4>3. Origine et Fin de l'Univers</h4>\n<p>Les physiciens cherchent &agrave; comprendre les conditions qui ont r&eacute;gn&eacute; aux d&eacute;buts de l'univers, notamment le Big Bang, ainsi que son destin ultime. Des questions demeurent sur la nature exacte des premi&egrave;res phases de l'univers et si celui-ci continuera &agrave; s'&eacute;tendre ind&eacute;finiment ou finira par s'effondrer sur lui-m&ecirc;me.</p>\n<h4>4. Unification des Forces Fondamentales</h4>\n<p>Il existe quatre forces fondamentales dans la nature: la gravit&eacute;, l'&eacute;lectromagn&eacute;tisme, la force nucl&eacute;aire faible et la force nucl&eacute;aire forte. Chercher une th&eacute;orie unifi&eacute;e qui inclut ces forces est l'un des objectifs majeurs en physique th&eacute;orique.</p>\n<h4>5. Les Questions &Eacute;thiques et Soci&eacute;tales</h4>\n<p>Le progr&egrave;s en physique moderne soul&egrave;ve &eacute;galement des questions &eacute;thiques et sociales, notamment en ce qui concerne l'&eacute;nergie nucl&eacute;aire et les technologies d&eacute;rivant de la physique quantique. Les physiciens doivent prendre en compte ces questions pour que la pratique de la science contribue positivement &agrave; la soci&eacute;t&eacute;.</p>\n<p>Ces d&eacute;fis majeurs repr&eacute;sentent les fronti&egrave;res actuelles de la science et stimulent la recherche ainsi que l'innovation technologique en physique moderne. Conqu&eacute;rir ces probl&eacute;matiques pourrait mener &agrave; des avanc&eacute;es r&eacute;volutionnaires dans notre compr&eacute;hension de l'univers et dans l'am&eacute;lioration de la vie quotidienne.</p>\n</section>",
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "dba97a55-8833-4a42-b599-e77ab9887497",
+                    "title": "Lesson 3: Introduction to Classical Physics",
+                    "slug": "lesson-3-introduction-to-classical-physics",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "6ab7c541-a80c-439c-a2ea-15ee970c8752",
+                    "title": "Lesson 5: Key Principles and Laws in Physics",
+                    "slug": "lesson-5-key-principles-and-laws-in-physics",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "d0df0d29-7f3a-4a04-9e1e-f5a54fa3151a",
+                    "title": "Leçon 2: La physique et la vie",
+                    "slug": "lesson-2-the-role-of-physics-in-daily-life",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": "<h2>Introduction &agrave; la physique dans la vie quotidienne</h2>\n<p>La physique est une science fondamentale qui &eacute;tudie les lois de la nature. Elle joue un r&ocirc;le essentiel dans notre compr&eacute;hension du monde qui nous entoure. Que ce soit dans la technologie, la m&eacute;decine, ou encore dans nos habitudes de tous les jours, la physique est pr&eacute;sente. Dans cette le&ccedil;on, nous explorerons comment la physique influence notre vie quotidienne de mani&egrave;re tangible et utile.</p>\n<h2>La physique dans les technologies modernes</h2>\n<p>Les avanc&eacute;es technologiques sont souvent le r&eacute;sultat de d&eacute;couvertes en physique. Par exemple, les t&eacute;l&eacute;phones portables que nous utilisons pour communiquer reposent sur des principes de physique quantique et d'&eacute;lectromagn&eacute;tisme. Les satellites, qui facilitent la navigation GPS et les communications, utilisent &eacute;galement des principes physiques complexes pour fonctionner correctement.</p>\n<h2>Application de la physique dans la m&eacute;decine</h2>\n<p>La physique a r&eacute;volutionn&eacute; le domaine m&eacute;dical &agrave; travers des technologies comme l'imagerie par r&eacute;sonance magn&eacute;tique (IRM) qui utilise des champs magn&eacute;tiques pour produire des images d&eacute;taill&eacute;es du corps humain. De plus, la radioth&eacute;rapie, utilis&eacute;e pour traiter certains cancers, repose sur les propri&eacute;t&eacute;s des rayons X et des radiations.</p>\n<h2>La physique dans les transports</h2>\n<p>La compr&eacute;hension des lois physiques a permis de concevoir des v&eacute;hicules plus s&ucirc;rs et plus efficaces. Les avions, par exemple, sont construits en tenant compte de la dynamique des fluides et des forces de portance, rendant le vol possible et s&eacute;curis&eacute;. Les trains &agrave; grande vitesse utilisent la physique pour minimiser la friction et maximiser la vitesse.</p>\n<h2>La physique dans l'&eacute;nergie</h2>\n<p>Les principes de base de la physique sont au c&oelig;ur de la production et de la consommation d'&eacute;nergie. Les centrales nucl&eacute;aires exploitent la fission nucl&eacute;aire pour produire de l'&eacute;lectricit&eacute;. Les panneaux solaires transforment l'&eacute;nergie solaire en &eacute;nergie &eacute;lectrique gr&acirc;ce &agrave; l'effet photo&eacute;lectrique, un ph&eacute;nom&egrave;ne &eacute;tudi&eacute; en physique.</p>\n<h2>L'importance de la physique dans l'architecture</h2>\n<p>Les architectes s'appuient sur la physique pour concevoir des b&acirc;timents s&eacute;curitaires et durables. Les calculs de charge, la r&eacute;sistance des mat&eacute;riaux et l'impact des ph&eacute;nom&egrave;nes naturels comme le vent et les s&eacute;ismes sont des consid&eacute;rations physiques essentielles dans la construction.</p>\n<h2>La physique et la m&eacute;t&eacute;orologie</h2>\n<p>La pr&eacute;vision m&eacute;t&eacute;orologique, essentielle pour de nombreux aspects de la vie quotidienne, n&eacute;cessite une compr&eacute;hension approfondie des ph&eacute;nom&egrave;nes atmosph&eacute;riques, qui sont r&eacute;gis par les lois de la physique. Les mod&egrave;les climatologiques aident &agrave; pr&eacute;dire le temps et &agrave; se pr&eacute;parer aux &eacute;v&eacute;nements climatiques extr&ecirc;mes.</p>\n<h2>Impact de la physique sur l'environnement</h2>\n<p>La physique joue un r&ocirc;le crucial dans le d&eacute;veloppement de solutions environnementales, telles que les &eacute;nergies renouvelables. Comprendre les ph&eacute;nom&egrave;nes climatologiques et les cycles naturels aide &agrave; mieux g&eacute;rer les ressources de notre plan&egrave;te et &agrave; r&eacute;duire l'empreinte &eacute;cologique.</p>\n<h2>La physique et l'am&eacute;lioration de la qualit&eacute; de vie</h2>\n<p>Les d&eacute;couvertes en physique ont permis l'am&eacute;lioration de la qualit&eacute; de vie gr&acirc;ce &agrave; des innovations telles que l'&eacute;clairage LED plus efficace, des appareils &eacute;lectrom&eacute;nagers &eacute;conomes en &eacute;nergie et des mat&eacute;riaux de construction plus durables.</p>\n<h2>Conclusion</h2>\n<p>La physique est une science omnipr&eacute;sente qui affecte chaque aspect de notre vie. Sa compr&eacute;hension nous permet de mieux appr&eacute;hender notre environnement et de d&eacute;velopper des technologies qui am&eacute;liorent notre quotidien. Alors que nous continuons &agrave; faire face &agrave; des d&eacute;fis mondiaux, la physique demeure essentielle pour innover et trouver des solutions durables.</p>",
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "3aeb87f0-9518-45e2-9abf-6442760e49b5",
+                    "title": "Lesson 1: Understanding the Fundamentals of Physics",
+                    "slug": "lesson-1-understanding-the-fundamentals-of-physics",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": "<h2>&nbsp;</h2>\n<h2>Introduction</h2>\n<p>.</p>\n<p>. Les fondements de la physique constituent la base de toutes les sciences naturelles. Ce cours vise &agrave; introduire les principes fondamentaux qui r&eacute;gissent notre compr&eacute;hension de l'univers physique. Nous explorerons une vue d'ensemble des concepts essentiels qui sous-tendent la physique en tant que discipline scientifique.</p>\n<h2>1- Qu'est-ce que la physique?</h2>\n<p>La physique est une discipline scientifique dont le but est d'&eacute;tudes des ph&eacute;nom&egrave;nes &nbsp;ou transformation &nbsp;aux cours desquelles &nbsp;la nature des objets ne changes pas. C'est une discipline exp&eacute;rimentale dont le but essentiel est d'apporter des explications rationnelles de la plus part des ph&eacute;nom&egrave;nes qui se produisent autours de nous. Son objet d'&eacute;tude demeure la mati&egrave;re, l'&eacute;nergie, et les interactions entre elles. La physique &eacute;tudie, mod&eacute;lise et formalise les ph&eacute;nom&egrave;nes naturels de l'univers. Elle correspond &agrave; l'&eacute;tude du monde qui nous entoure sous toutes ses formes, des lois de ses variations et de leur &eacute;volution.Elle explore tout, des particules subatomiques aux vastes galaxies, en se concentrant sur les lois naturelles qui r&eacute;gulent le comportement de l'univers physique.</p>\n<h2>2- Principaux Domaines de la Physique</h2>\n<p>La physique se divise en deux grands courants: la physique th&eacute;orique et la physique exp&eacute;rimentale. Ces deux courants s'opposent par moment, se compl&egrave;tent dans d'autres et ou s'exclus dans qu&ecirc;te de la v&eacute;rit&eacute; scientifique. L'<a title=\"Histoire de la physique\" href=\"https://fr.wikipedia.org/wiki/Histoire_de_la_physique\">histoire de la physique</a> semble montrer qu'il est illusoire de penser que l'on finira par trouver un corpus fini d'&eacute;quations qu'on ne pourra jamais contredire par exp&eacute;rience. Chaque th&eacute;orie accept&eacute;e &agrave; une &eacute;poque finit par r&eacute;v&eacute;ler ses limites, et est int&eacute;gr&eacute;e dans une th&eacute;orie plus large. Elle est divis&eacute;e en 4 grands domaines que sont: la m&eacute;canique classique, la thermodynamique, l'&eacute;lectromagn&eacute;tisme et &nbsp;la physique quantique.</p>\n<h3>2-1 M&eacute;canique</h3>\n<p>La <strong>m&eacute;canique newtonienne</strong> est une branche de la <a title=\"Physique\" href=\"https://fr.wikipedia.org/wiki/Physique\">physique</a>. Depuis les travaux d'<a title=\"Albert Einstein\" href=\"https://fr.wikipedia.org/wiki/Albert_Einstein\">Albert Einstein</a>, elle est souvent qualifi&eacute;e de <strong>m&eacute;canique classique</strong>.</p>\n<p>La m&eacute;canique classique ou m&eacute;canique newtonienne est une th&eacute;orie physique qui d&eacute;crit le mouvement des objets macroscopiques lorsque leur vitesse est faible par rapport &agrave; <a title=\"Vitesse de la lumi&egrave;re\" href=\"https://fr.wikipedia.org/wiki/Vitesse_de_la_lumi%C3%A8re\">celle de la lumi&egrave;re</a>.</p>\n<p>Avant de devenir une science &agrave; part enti&egrave;re, la <a title=\"M&eacute;canique (science)\" href=\"https://fr.wikipedia.org/wiki/M%C3%A9canique_(science)\">m&eacute;canique</a> a longtemps &eacute;t&eacute; une section des <a title=\"Math&eacute;matiques\" href=\"https://fr.wikipedia.org/wiki/Math%C3%A9matiques\">math&eacute;matiques</a>.</p>\n<p>De nombreux math&eacute;maticiens y ont apport&eacute; une contribution souvent d&eacute;cisive, parmi eux des grands noms tels qu'<a title=\"Leonhard Euler\" href=\"https://fr.wikipedia.org/wiki/Leonhard_Euler\">Euler</a>, <a title=\"Augustin Louis Cauchy\" href=\"https://fr.wikipedia.org/wiki/Augustin_Louis_Cauchy\">Cauchy</a>, <a title=\"Joseph-Louis Lagrange\" href=\"https://fr.wikipedia.org/wiki/Joseph-Louis_Lagrange\">Lagrange</a>&hellip; Jusqu'&agrave; la fin du <a title=\"XVIIIe si&egrave;cle\" href=\"https://fr.wikipedia.org/wiki/XVIIIe_si%C3%A8cle\"><abbr class=\"abbr\" title=\"18ᵉ si&egrave;cle\"><span class=\"romain\">xviii</span><sup>e</sup></abbr>&nbsp;si&egrave;cle</a>, la m&eacute;canique a &eacute;t&eacute; le domaine applicatif naturel des math&eacute;matiques, le domaine dans lequel on pouvait tenter de faire entrer les faits exp&eacute;rimentaux dans le cadre rigoureux des math&eacute;matiques. Inversement, certains probl&egrave;mes de m&eacute;canique ont donn&eacute; naissance ou orient&eacute; l'int&eacute;r&ecirc;t des math&eacute;maticiens vers des th&eacute;ories telles que la <a title=\"G&eacute;om&eacute;trie\" href=\"https://fr.wikipedia.org/wiki/G%C3%A9om%C3%A9trie\">g&eacute;om&eacute;trie</a> ou les <a title=\"&Eacute;quation diff&eacute;rentielle\" href=\"https://fr.wikipedia.org/wiki/%C3%89quation_diff%C3%A9rentielle\">&eacute;quations diff&eacute;rentielles</a>.</p>\n<p>Historiquement, la <a class=\"mw-redirect\" title=\"M&eacute;canique statique\" href=\"https://fr.wikipedia.org/wiki/M%C3%A9canique_statique\">m&eacute;canique statique</a> a &eacute;t&eacute; le premier domaine &eacute;tudi&eacute; par les savants. De l'<a title=\"Antiquit&eacute;\" href=\"https://fr.wikipedia.org/wiki/Antiquit%C3%A9\">Antiquit&eacute;</a> jusqu'au <a title=\"Moyen &Acirc;ge\" href=\"https://fr.wikipedia.org/wiki/Moyen_%C3%82ge\">Moyen &Acirc;ge</a> des notions fondamentales telles que &laquo;&nbsp;l'&eacute;quilibre&nbsp;&raquo;, le c&eacute;l&egrave;bre &laquo;&nbsp;bras de <a title=\"Levier (m&eacute;canique)\" href=\"https://fr.wikipedia.org/wiki/Levier_(m%C3%A9canique)\">levier</a>&nbsp;&raquo; d'<a title=\"Archim&egrave;de\" href=\"https://fr.wikipedia.org/wiki/Archim%C3%A8de\">Archim&egrave;de</a> ou encore la notion beaucoup plus abstraite de &laquo;&nbsp;<a title=\"Force (physique)\" href=\"https://fr.wikipedia.org/wiki/Force_(physique)\">force</a>&nbsp;&raquo; ont &eacute;t&eacute; &eacute;tudi&eacute;es. Plus tard, l'int&eacute;r&ecirc;t s'est port&eacute; vers la &laquo;&nbsp;<a class=\"mw-redirect\" title=\"Dynamique (physique)\" href=\"https://fr.wikipedia.org/wiki/Dynamique_(physique)\">dynamique</a>&nbsp;&raquo;, c'est-&agrave;-dire les ph&eacute;nom&egrave;nes qui r&eacute;gissent le mouvement des solides, domaine dans lequel <a title=\"Galil&eacute;e (savant)\" href=\"https://fr.wikipedia.org/wiki/Galil%C3%A9e_(savant)\">Galil&eacute;e</a>, pour la chute des corps, et <a title=\"Isaac Newton\" href=\"https://fr.wikipedia.org/wiki/Isaac_Newton\">Newton</a> dans ses c&eacute;l&egrave;bres <em><a class=\"mw-redirect\" title=\"Philosophiae Naturalis Principia Mathematica\" href=\"https://fr.wikipedia.org/wiki/Philosophiae_Naturalis_Principia_Mathematica\">Philosophiae Naturalis Principia Mathematica</a></em> ont apport&eacute; des contributions d&eacute;cisives.</p>\n<h3>2-2 Thermodynamique</h3>\n<p><span style=\"font-size: 15px;\">La thermodynamique, du grec \"therme\" (chaleur) et \"dynamis\" (pouvoir, force), est l'&eacute;tude des transformations d'&eacute;nergie, en particulier la chaleur, et de leurs effets sur les syst&egrave;mes.</span><span class=\"pjBG2e\" style=\"font-size: 15px;\" data-cid=\"e97bf8ae-dde8-4095-9769-c3616b904e23\"><span class=\"UV3uM\"> Elle </span></span><span data-huuid=\"7579810689730721083\">est donc la branche de la physique qui &eacute;tudie les &eacute;changes d'&eacute;nergie, principalement sous forme de chaleur, et les transformations de cette &eacute;nergie dans les syst&egrave;mes.&nbsp;</span><span data-huuid=\"7579810689730723838\">Son objet principal est de comprendre et de d&eacute;crire le comportement des syst&egrave;mes &agrave; l'&eacute;chelle macroscopique, en se basant sur des principes fondamentaux comme la conservation de l'&eacute;nergie et l'irr&eacute;versibilit&eacute; des processus. </span><span data-huuid=\"7579810689730722497\">Le but de la thermodynamique est de pr&eacute;dire l'&eacute;volution des syst&egrave;mes et leurs &eacute;tats d'&eacute;quilibre, en consid&eacute;rant leurs propri&eacute;t&eacute;s physiques comme la temp&eacute;rature, le volume et la pression</span></p>\n<p><span data-huuid=\"7579810689730722497\"><span data-huuid=\"7354857030470789014\">Le principal objectif de la thermodynamique est de comprendre et de d&eacute;crire les &eacute;changes d'&eacute;nergie au sein des syst&egrave;mes et entre ces syst&egrave;mes et leur environnement. </span><span data-huuid=\"7354857030470788275\">Elle permet de d&eacute;terminer les &eacute;tats d'&eacute;quilibre des syst&egrave;mes et de pr&eacute;voir leur &eacute;volution en fonction des conditions externes.<span class=\"pjBG2e\" data-cid=\"8986062d-8d70-430b-92a6-2bf2978eb14a\"><span class=\"UV3uM\">&nbsp;</span></span></span></span></p>\n<p><span data-huuid=\"7579810689730722497\"><span data-huuid=\"7354857030470788275\"><span class=\"pjBG2e\" data-cid=\"8986062d-8d70-430b-92a6-2bf2978eb14a\"><span class=\"UV3uM\"><span data-huuid=\"7354857030470790154\">La thermodynamique trouve des applications dans de nombreux domaines, notamment dans l'&eacute;tude des machines thermiques (moteurs, turbines), des processus industriels (r&eacute;actions chimiques), et m&ecirc;me dans l'&eacute;tude du m&eacute;tabolisme humain.<span class=\"pjBG2e\" data-cid=\"b4418402-f51c-46a9-839f-67ed413ef878\">&nbsp;</span></span></span></span></span></span></p>\n<div class=\"Gur8Ad\"><span data-huuid=\"7354857030470788676\"><strong>Principes fondamentaux:</strong></span></div>\n<div class=\"vM0jzc\"><span data-huuid=\"7354857030470787937\">La thermodynamique repose sur plusieurs principes fondamentaux, notamment la loi de conservation de l'&eacute;nergie, les lois de la thermodynamique (z&eacute;ro, premi&egrave;re, deuxi&egrave;me, troisi&egrave;me) et l'entropie.<span class=\"pjBG2e\" data-cid=\"27280353-d1e9-4c65-abc7-ae23c01042b5\"><span class=\"UV3uM\">&nbsp;</span></span></span></div>\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">\n<div class=\"rPeykc\" data-hveid=\"CAMQAQ\" data-ved=\"2ahUKEwjSwdOlr7-NAxUAMfsDHbSsMiAQo_EKegQIAxAB\">\n<div class=\"NPrrbc\" data-cid=\"65746cba-9a2a-4cc6-bacd-23b9d39b2e04\" data-uuids=\"7579810689730721083,7579810689730723838,7579810689730722497\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CAcQAQ\" data-ved=\"2ahUKEwjSwdOlr7-NAxUAMfsDHbSsMiAQ3fYKegQIBxAB\">\n<div class=\"niO4u\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">\n<ul data-hveid=\"CCgQAQ\" data-ved=\"2ahUKEwjSwdOlr7-NAxUAMfsDHbSsMiAQm_YKegQIKBAB\">\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"Gur8Ad\">\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">\n<ul data-hveid=\"CCgQAQ\" data-ved=\"2ahUKEwjSwdOlr7-NAxUAMfsDHbSsMiAQm_YKegQIKBAB\">\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"vM0jzc\">\n<div class=\"NPrrbc\" data-cid=\"e97bf8ae-dde8-4095-9769-c3616b904e23\" data-uuids=\"7354857030470790830,7354857030470790091\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CB8QAQ\" data-ved=\"2ahUKEwjSwdOlr7-NAxUAMfsDHbSsMiAQ3fYKegQIHxAB\">\n<div class=\"niO4u\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">&nbsp;</div>\n</div>\n</div>\n</li>\n</ul>\n</div>\n</div>\n<h3>2-3 Electromagn&eacute;tisme</h3>\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">\n<div class=\"rPeykc\" data-hveid=\"CAMQAQ\" data-ved=\"2ahUKEwjatMLUs7-NAxUYK_sDHTdBLQUQo_EKegQIAxAB\"><span data-huuid=\"424251231950827082\">L'&eacute;lectromagn&eacute;tisme est la branche de la physique qui &eacute;tudie les interactions entre les charges &eacute;lectriques et les champs magn&eacute;tiques, ainsi que les ph&eacute;nom&egrave;nes qui en d&eacute;coulent. </span><span data-huuid=\"424251231950827313\">Il est fond&eacute; sur les &eacute;quations de Maxwell et explique les interactions entre les charges &eacute;lectriques, les aimants et les ondes &eacute;lectromagn&eacute;tiques. </span>\n<div class=\"NPrrbc\" data-cid=\"592d41c0-f56c-459f-a740-08177e20b16f\" data-uuids=\"424251231950827082,424251231950827313\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CAgQAQ\" data-ved=\"2ahUKEwjatMLUs7-NAxUYK_sDHTdBLQUQ3fYKegQICBAB\">\n<div class=\"niO4u\">&nbsp;</div>\n</div>\n</div>\n<span data-huuid=\"424251231950823972\"><strong>L'&eacute;lectromagn&eacute;tisme</strong>: </span><span data-huuid=\"424251231950824203\">est la science qui &eacute;tudie les interactions entre l'&eacute;lectricit&eacute; et le magn&eacute;tisme.</span></div>\n<div class=\"rPeykc\" data-hveid=\"CAMQAQ\" data-ved=\"2ahUKEwjatMLUs7-NAxUYK_sDHTdBLQUQo_EKegQIAxAB\"><span data-huuid=\"424251231950824665\">Il se base sur le champ &eacute;lectromagn&eacute;tique, un concept unifiant les champs &eacute;lectriques et magn&eacute;tiques.</span></div>\n<div class=\"rPeykc\" data-hveid=\"CAMQAQ\" data-ved=\"2ahUKEwjatMLUs7-NAxUYK_sDHTdBLQUQo_EKegQIAxAB\"><span data-huuid=\"424251231950825127\">Il explique les ondes &eacute;lectromagn&eacute;tiques comme la lumi&egrave;re, les ondes radio, etc. </span><span data-huuid=\"424251231950825589\">L'interaction &eacute;lectromagn&eacute;tique est l'une des quatre forces fondamentales de la physique, avec la force nucl&eacute;aire forte, la force nucl&eacute;aire faible et la force gravitationnelle.<span class=\"pjBG2e\" data-cid=\"c637d704-199a-43a9-ab37-2b93bfab1c37\"><span class=\"UV3uM\">&nbsp;</span></span></span></div>\n</div>\n</div>\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">&nbsp;</div>\n</div>\n<div class=\"WaaZC\">&nbsp;</div>\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">\n<div class=\"rPeykc\" data-hveid=\"CCMQAQ\" data-ved=\"2ahUKEwjatMLUs7-NAxUYK_sDHTdBLQUQo_EKegQIIxAB\"><span data-huuid=\"13125675005017332203\">L'&eacute;lectromagn&eacute;tisme est une th&eacute;orie fondamentale qui d&eacute;crit comment les charges &eacute;lectriques cr&eacute;ent des champs &eacute;lectriques et magn&eacute;tiques, et comment ces champs affectent les autres charges et courants &eacute;lectriques.<span class=\"pjBG2e\" data-cid=\"63657210-3c5f-4d72-82f8-57648d2bf006\"><span class=\"UV3uM\">&nbsp;</span></span></span>\n<div class=\"NPrrbc\" data-cid=\"63657210-3c5f-4d72-82f8-57648d2bf006\" data-uuids=\"13125675005017332203\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CCIQAQ\" data-ved=\"2ahUKEwjatMLUs7-NAxUYK_sDHTdBLQUQ3fYKegQIIhAB\">\n<div class=\"niO4u\">\n<div class=\"kHtcsd\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">\n<div class=\"rPeykc pyPiTc\" data-hveid=\"CCcQAQ\" data-ved=\"2ahUKEwjatMLUs7-NAxUYK_sDHTdBLQUQo_EKegQIJxAB\"><span data-huuid=\"12039164375922464382\">Quelques aspects importants:</span></div>\n</div>\n</div>\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">\n<ul data-hveid=\"CD0QAQ\" data-ved=\"2ahUKEwjatMLUs7-NAxUYK_sDHTdBLQUQm_YKegQIPRAB\">\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"Gur8Ad\"><span data-huuid=\"12039164375922463731\"><strong>Champs &eacute;lectromagn&eacute;tiques:</strong></span></div>\n<div class=\"vM0jzc\"><span data-huuid=\"12039164375922463514\">Ces champs sont des r&eacute;gions de l'espace qui exercent une force sur les charges &eacute;lectriques et les aimants.</span></div>\n</div>\n</div>\n</div>\n</li>\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"Gur8Ad\"><span data-huuid=\"12039164375922463080\"><strong>Ondes &eacute;lectromagn&eacute;tiques:</strong></span></div>\n<div class=\"vM0jzc\"><span data-huuid=\"12039164375922462863\">Des fluctuations dans les champs &eacute;lectriques et magn&eacute;tiques qui se propagent dans l'espace &agrave; la vitesse de la lumi&egrave;re. </span><span data-huuid=\"12039164375922466742\">La lumi&egrave;re visible, les rayons X, les micro-ondes, les ondes radio sont toutes des ondes &eacute;lectromagn&eacute;tiques.<span class=\"pjBG2e\" data-cid=\"0803c85c-4511-46dd-ae73-55a63d7ce2ed\"><span class=\"UV3uM\">&nbsp;</span></span></span>\n<div class=\"NPrrbc\" data-cid=\"0803c85c-4511-46dd-ae73-55a63d7ce2ed\" data-uuids=\"12039164375922463080,12039164375922462863,12039164375922466742\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CDgQAQ\" data-ved=\"2ahUKEwjatMLUs7-NAxUYK_sDHTdBLQUQ3fYKegQIOBAB\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"Gur8Ad\"><span data-huuid=\"12039164375922466308\"><strong>Forces &eacute;lectromagn&eacute;tiques:</strong></span></div>\n<div class=\"vM0jzc\"><span data-huuid=\"12039164375922466091\">L'interaction &eacute;lectromagn&eacute;tique peut &ecirc;tre attractive ou r&eacute;pulsive, d&eacute;pendant de la nature des charges impliqu&eacute;es.<span class=\"pjBG2e\" data-cid=\"0c28e015-108a-4784-8407-8b6dd06b64e5\"><span class=\"UV3uM\">&nbsp;</span></span></span>\n<div class=\"NPrrbc\" data-cid=\"0c28e015-108a-4784-8407-8b6dd06b64e5\" data-uuids=\"12039164375922466308,12039164375922466091\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CDUQAQ\" data-ved=\"2ahUKEwjatMLUs7-NAxUYK_sDHTdBLQUQ3fYKegQINRAB\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"Gur8Ad\"><span data-huuid=\"12039164375922465657\"><strong>Induction &eacute;lectromagn&eacute;tique:</strong></span></div>\n<div class=\"vM0jzc\"><span data-huuid=\"12039164375922465440\">Un courant &eacute;lectrique peut &ecirc;tre induit dans un conducteur soumis &agrave; un champ magn&eacute;tique variable.<span class=\"pjBG2e\" data-cid=\"6a8cf230-69cb-4d0c-9e8d-2dd8382f7903\"><span class=\"UV3uM\">&nbsp;</span></span></span>\n<div class=\"NPrrbc\" data-cid=\"6a8cf230-69cb-4d0c-9e8d-2dd8382f7903\" data-uuids=\"12039164375922465657,12039164375922465440\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CDIQAQ\" data-ved=\"2ahUKEwjatMLUs7-NAxUYK_sDHTdBLQUQ3fYKegQIMhAB\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"Gur8Ad\"><span data-huuid=\"12039164375922465006\"><strong>&Eacute;quations de Maxwell:</strong></span></div>\n<div class=\"vM0jzc\"><span data-huuid=\"12039164375922464789\">Un ensemble de quatre &eacute;quations qui d&eacute;crivent le champ magn&eacute;tique et le champ &eacute;lectrique et qui sont le fondement de l'&eacute;lectromagn&eacute;tisme.<span class=\"pjBG2e\" data-cid=\"27320dea-60a2-4bdb-8303-ae7237278ddd\"><span class=\"UV3uM\">&nbsp;</span></span></span></div>\n</div>\n</div>\n</div>\n</li>\n</ul>\n</div>\n</div>\n<h3>2-4 Physique Quantique</h3>\n<div class=\"LT6XE\">\n<div class=\"f5cPye\" data-rl=\"fr\" data-lht=\"842\">\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">\n<div class=\"rPeykc\" data-hveid=\"CAMQAQ\" data-ved=\"2ahUKEwjm2dm3tL-NAxUcRaQEHbBoG8cQo_EKegQIAxAB\"><span data-huuid=\"16304595399734680423\">La physique quantique est la branche de la physique qui &eacute;tudie le comportement de la mati&egrave;re et de l'&eacute;nergie &agrave; l'&eacute;chelle atomique et subatomique. </span><span data-huuid=\"16304595399734679190\"><mark class=\"QVRyCf\">Son but principal est de comprendre les propri&eacute;t&eacute;s et les interactions de ces &eacute;l&eacute;ments fondamentaux de la nature</mark>.<span class=\"pjBG2e\" data-cid=\"0a4a3975-82ac-4051-aa73-8bc9c0759c75\"><span class=\"UV3uM\">&nbsp;</span></span></span>\n<div class=\"NPrrbc\" data-cid=\"0a4a3975-82ac-4051-aa73-8bc9c0759c75\" data-uuids=\"16304595399734680423,16304595399734679190\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CAQQAg\" data-ved=\"2ahUKEwjm2dm3tL-NAxUcRaQEHbBoG8cQ3fYKegQIBBAC\">\n<div class=\"niO4u\">\n<div class=\"kHtcsd\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">\n<div class=\"rPeykc pyPiTc\" data-hveid=\"CAoQAQ\" data-ved=\"2ahUKEwjm2dm3tL-NAxUcRaQEHbBoG8cQo_EKegQIChAB\"><span data-huuid=\"16304595399734678354\">En r&eacute;sum&eacute;, la physique quantique cherche &agrave; r&eacute;pondre aux questions suivantes :</span></div>\n</div>\n</div>\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">\n<ul data-hveid=\"CBIQAQ\" data-ved=\"2ahUKEwjm2dm3tL-NAxUcRaQEHbBoG8cQm_YKegQIEhAB\">\n<li><span data-huuid=\"16304595399734678751\">Comment les atomes et les particules &eacute;l&eacute;mentaires se comportent-ils ?</span></li>\n<li><span data-huuid=\"16304595399734680381\">Quelles sont les lois qui r&eacute;gissent leur mouvement et leur &eacute;nergie ?</span></li>\n<li><span data-huuid=\"16304595399734677915\">Comment la mati&egrave;re et la lumi&egrave;re interagissent-elles &agrave; cette &eacute;chelle ? </span></li>\n</ul>\n<p>Plus pr&eacute;cis&eacute;ment, la physique quantique &eacute;tudie :</p>\n</div>\n</div>\n<div class=\"WaaZC\">\n<div class=\"RJPOee EIJn2\">\n<ul data-hveid=\"CDMQAQ\" data-ved=\"2ahUKEwjm2dm3tL-NAxUcRaQEHbBoG8cQm_YKegQIMxAB\">\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"Gur8Ad\"><span data-huuid=\"14167113889179648543\"><strong>La dualit&eacute; onde-particule :</strong></span></div>\n<div class=\"vM0jzc\"><span data-huuid=\"14167113889179650686\">La lumi&egrave;re et la mati&egrave;re peuvent se comporter comme des ondes ou comme des particules, selon la mani&egrave;re dont on les observe.<span class=\"pjBG2e\" data-cid=\"4dc5ec36-c870-4b97-8bb1-a1f23dea6ac1\"><span class=\"UV3uM\">&nbsp;</span></span></span>\n<div class=\"NPrrbc\" data-cid=\"4dc5ec36-c870-4b97-8bb1-a1f23dea6ac1\" data-uuids=\"14167113889179648543,14167113889179650686\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CB8QAQ\" data-ved=\"2ahUKEwjm2dm3tL-NAxUcRaQEHbBoG8cQ3fYKegQIHxAB\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"Gur8Ad\"><span data-huuid=\"14167113889179650876\"><strong>La superposition :</strong></span></div>\n<div class=\"vM0jzc\"><span data-huuid=\"14167113889179648923\">Un syst&egrave;me quantique peut &ecirc;tre dans plusieurs &eacute;tats en m&ecirc;me temps, jusqu'&agrave; ce qu'il soit observ&eacute;.<span class=\"pjBG2e\" data-cid=\"9ffb3d37-cc6b-447b-bce1-4e9cb7690ada\"><span class=\"UV3uM\">&nbsp;</span></span></span>\n<div class=\"NPrrbc\" data-cid=\"9ffb3d37-cc6b-447b-bce1-4e9cb7690ada\" data-uuids=\"14167113889179650876,14167113889179648923\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CCoQAQ\" data-ved=\"2ahUKEwjm2dm3tL-NAxUcRaQEHbBoG8cQ3fYKegQIKhAB\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"Gur8Ad\"><span data-huuid=\"14167113889179649113\"><strong>L'intrication :</strong></span></div>\n<div class=\"vM0jzc\"><span data-huuid=\"14167113889179651256\">Deux particules peuvent &ecirc;tre li&eacute;es de mani&egrave;re telle que leur &eacute;tat soit corr&eacute;l&eacute;, m&ecirc;me &agrave; distance.<span class=\"pjBG2e\" data-cid=\"5fca3084-c8c2-417e-bea2-75eddc172b25\"><span class=\"UV3uM\">&nbsp;</span></span></span>\n<div class=\"NPrrbc\" data-cid=\"5fca3084-c8c2-417e-bea2-75eddc172b25\" data-uuids=\"14167113889179649113,14167113889179651256\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CCkQAQ\" data-ved=\"2ahUKEwjm2dm3tL-NAxUcRaQEHbBoG8cQ3fYKegQIKRAB\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"Gur8Ad\"><span data-huuid=\"14167113889179651446\"><strong>Le principe d'incertitude :</strong></span></div>\n<div class=\"vM0jzc\"><span data-huuid=\"14167113889179649493\">Il est impossible de conna&icirc;tre parfaitement la position et la vitesse d'une particule en m&ecirc;me temps.<span class=\"pjBG2e\" data-cid=\"a1893d86-b41c-43eb-b646-1dbef3be112c\"><span class=\"UV3uM\">&nbsp;</span></span></span>\n<div class=\"NPrrbc\" data-cid=\"a1893d86-b41c-43eb-b646-1dbef3be112c\" data-uuids=\"14167113889179651446,14167113889179649493\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CC8QAQ\" data-ved=\"2ahUKEwjm2dm3tL-NAxUcRaQEHbBoG8cQ3fYKegQILxAB\">&nbsp;</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</li>\n<li class=\"K3KsMc\">\n<div class=\"zMgcWd dSKvsb\" data-il=\"\">\n<div data-crb-p=\"\">\n<div class=\"xFTqob\">\n<div class=\"Gur8Ad\"><span data-huuid=\"14167113889179649683\"><strong>La quantification de l'&eacute;nergie :</strong></span></div>\n<div class=\"vM0jzc\"><span data-huuid=\"14167113889179651826\">L'&eacute;nergie est &eacute;mise et absorb&eacute;e en quantit&eacute;s discr&egrave;tes (quanta) plut&ocirc;t qu'en continu.<span class=\"pjBG2e\" data-cid=\"49e03991-13d4-40de-9aa1-d1fba6ae51f2\"><span class=\"UV3uM\">&nbsp;</span></span></span></div>\n<div class=\"vM0jzc\">&nbsp;</div>\n<div class=\"vM0jzc\">\n<div class=\"NPrrbc\" data-cid=\"49e03991-13d4-40de-9aa1-d1fba6ae51f2\" data-uuids=\"14167113889179649683,14167113889179651826\">\n<div class=\"BMebGe btku5b fCrZyc LwdV0e FR7ZSc OJeuxf\" tabindex=\"0\" role=\"button\" aria-label=\"Afficher les liens associ&eacute;s\" data-hveid=\"CDAQAQ\" data-ved=\"2ahUKEwjm2dm3tL-NAxUcRaQEHbBoG8cQ3fYKegQIMBAB\">\n<div class=\"niO4u\">&nbsp;</div>\n</div>\n</div>\n<span data-huuid=\"2097003109540935404\">Ces concepts et ph&eacute;nom&egrave;nes quantiques sont &agrave; la base de nombreuses d&eacute;couvertes et avanc&eacute;es technologiques, telles que les lasers, les transistors et les ordinateurs quantiques.<span class=\"pjBG2e\" data-cid=\"653cdf5c-4407-4eb8-997d-7b3ba360e8e4\"><span class=\"UV3uM\">&nbsp;</span></span></span></div>\n</div>\n</div>\n</div>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<div class=\"kLMmLc\">\n<div>\n<div class=\"Clk5Ib\">\n<div class=\"IGvtd\">\n<div class=\"TRXNOc\">\n<div class=\"BOThhc\">\n<div class=\"ifiyWc\">\n<div id=\"folsrch-sources-1\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<h2>3- Les Grandes Lois et Th&eacute;ories de la physique</h2>\n<h3>Les Lois du Mouvement de Newton</h3>\n<p>Les lois de Newton d&eacute;crivent la relation entre le mouvement d'un objet et les forces qui agissent sur lui. Ces lois constituent la base de la m&eacute;canique classique.</p>\n<h3>La Th&eacute;orie de la Relativit&eacute;</h3>\n<p>Propos&eacute;e par Albert Einstein, la th&eacute;orie de la relativit&eacute; red&eacute;finit les notions d'espace et de temps, introduisant le concept de courbure de l'espace-temps.</p>\n<h3>La Th&eacute;orie des Champs Quantiques</h3>\n<p>Elle unifie la m&eacute;canique quantique avec la relativit&eacute; restreinte, cr&eacute;ant un cadre permettant d'&eacute;tudier les processus subatomiques.</p>\n<h2>4- M&eacute;thodologie et d&eacute;marche Scientifique en Physique</h2>\n<p>La physique repose sur la m&eacute;thode scientifique, qui implique l'observation, la formulation d'hypoth&egrave;ses, l'exp&eacute;rimentation, et la conclusion bas&eacute;e sur les r&eacute;sultats. Cette m&eacute;thodologie est essentielle pour d&eacute;velopper de nouvelles th&eacute;ories et tester les mod&egrave;les existants.</p>\n<h2>Conclusion</h2>\n<p>Comprendre les fondements de la physique est crucial pour saisir comment fonctionne le monde. Avec les concepts fondamentaux, les th&eacute;ories principales, et une approche m&eacute;thodologique rigoureuse, la physique nous offre une compr&eacute;hension profonde et nuanc&eacute;e de la nature de l'univers.</p>",
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                }
+            ]
+        },
+        {
+            "id": "811669f9-739e-4930-b329-e7638073df06",
+            "title": "Module 5: L'optique ",
+            "description": "Study the behavior and properties of light, lenses, and optical instruments.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "3e800caa-8d79-42bc-9b49-02cadf37b82f",
+            "title": "Module 7: Physique nucléaire et atomique",
+            "description": "Explore the structure of atoms, nuclear reactions, and the principles of quantum mechanics.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "fb3e8cda-b9bb-45f3-bd86-2ed493a7b718",
+            "title": "Module 4: Ondes et phénomène vibratoires",
+            "description": "Understand the characteristics and types of waves, and explore the phenomenon of vibrations.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "dab2abf7-fa7f-4c10-abdb-4b270f3876f8",
+            "title": "Module 6: Electomagnetisme",
+            "description": "Discover the relationship between electricity and magnetism, and learn about electromagnetic waves.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "354640e6-1f60-4bc3-87a4-53c2f6c0a873",
+            "title": "Module 10: L'astrophysique",
+            "description": "Explore the physics of stars, galaxies, and the universe.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "078c07b6-cc09-4351-9fcd-21dcc56d0385",
+            "title": "Module 2: La mécanique classique",
+            "description": "Learn about the laws of motion, forces, energy, and momentum, and how they shape the world around us.",
+            "live_preview": false,
+            "lessons": [
+                {
+                    "id": "e840cab8-a361-43d4-83cf-02b5b69803ce",
+                    "title": "Lesson 3: Work, Energy, and Power",
+                    "slug": "lesson-3-work-energy-and-power",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "410e9324-4cab-45b1-beb2-7f3257416b35",
+                    "title": "Lesson 5: Rotational Dynamics",
+                    "slug": "lesson-5-rotational-dynamics",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "8382664c-303b-4cc1-a861-e668a52b5d83",
+                    "title": "Leçon 1 : les fondements de la mécanique  classique",
+                    "slug": "lesson-1-fundamentals-of-mechanics",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "452671f8-238d-429b-8bf7-c309d52cf617",
+                    "title": "Lesson 4: Momentum and Collision",
+                    "slug": "lesson-4-momentum-and-collision",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "01e54366-5285-4263-968b-be251ce422c5",
+                    "title": "Leçon 2: la cinématique du point matériel",
+                    "slug": "mouvement-cinematique-referentiel-vitesse-position-acceleration",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": "<section>\n    <h2>Leçon 2: La Cinématique du Point Matériel</h2>\n    <p>La cinématique est l'étude du mouvement des points matériels sans considérer les causes de ces mouvements. Cette leçon couvre les concepts fondamentaux de la cinématique, y compris les mouvements, les référentiels, les positions, la vitesse, l'accélération, et les systèmes de coordonnées.</p>\n    \n    <h3>Mouvements</h3>\n    <p>Les mouvements des points matériels peuvent être analysés en fonction de leur trajectoire, vitesse, et accélération. Il est essentiel d'abord de comprendre comment un point matériel se déplace dans l'espace afin de décrire son mouvement de manière complète.</p>\n\n    <h3>Référentiels</h3>\n    <p>Un référentiel est un système de coordonnées dans lequel la position des points matériels est déterminée. Choisir un référentiel approprié est crucial pour simplifier l'analyse du mouvement. Les référentiels peuvent être fixes ou en mouvement, affectant ainsi la description du mouvement observé.</p>\n\n    <h3>Positions</h3>\n    <p>La position d'un point matériel se réfère à son emplacement dans l'espace à un instant donné. Elle est souvent mesurée par rapport à un point d'origine dans le référentiel choisi. La position est souvent exprimée en coordonnées cartésiennes ou dans d'autres systèmes de coordonnées pour plus de commodité.</p>\n\n    <h3>Vitesse</h3>\n    <p>La vitesse est une grandeur vectorielle qui décrit le changement de position d'un point matériel dans le temps. C'est le taux de variation de la position, et elle peut être constante ou variable. La direction et la rapidité du déplacement sont caractérisées par ce vecteur.</p>\n\n    <h3>Accélération</h3>\n    <p>L'accélération est le taux de changement de la vitesse dans le temps. C'est aussi une grandeur vectorielle qui permet de décrire comment la vitesse d'un point matériel change, que ce soit en magnitude ou en direction.</p>\n\n    <h3>Systèmes de Coordonnées</h3>\n    <p>Différents systèmes de coordonnées peuvent être utilisés pour analyser la cinématique :</p>\n    <ul>\n        <li><strong>Cartésiennes :</strong> Utilise des axes perpendiculaires pour définir une position dans l'espace avec des coordonnées (x, y, z).</li>\n        <li><strong>Curviligne :</strong> Utile pour les mouvements le long d'une trajectoire courbe, définie par des coordonnées suivant la courbe.</li>\n        <li><strong>Polaires :</strong> Utilise un rayon et un angle pour définir la position d'un point dans un plan à partir d'un point d'origine et d'une direction initiale.</li>\n        <li><strong>Cylindrique :</strong> Extension des coordonnées polaires en ajoutant une hauteur z pour prendre en compte une troisième dimension.</li>\n    </ul>\n</section>",
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                }
+            ]
+        },
+        {
+            "id": "7175e8c6-890d-49f7-97bf-167ca09d0386",
+            "title": "Module 11: Quantum Mechanics",
+            "description": "Delve into the world of quantum mechanics and understand the behavior of particles at the quantum level.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "a1d46e20-804f-4d4e-90eb-6c9ce41fb34d",
+            "title": "Module 12: La mécanique des fluides",
+            "description": "Learn about the behavior of fluids under different conditions of pressure and movement.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "f6e3a2b9-25c6-4eb7-801c-378231bf25fb",
+            "title": "Module 13: La physique statistique",
+            "description": "Explore the laws of thermodynamics from a statistical perspective.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "d4cf6eb3-dc29-48d4-8829-a22fc01e2cec",
+            "title": "Module 14: La physique experimentale",
+            "description": "Get hands-on experience in conducting physics experiments and analyzing data.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "193fd70d-bc68-48f7-9f1f-d80031534e19",
+            "title": "Module 8: La relativité",
+            "description": "Understand Einstein's theories of relativity and their impact on our understanding of time and space.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "80a99285-9458-4cba-8406-829ff6de2055",
+            "title": "Module 9: La physique des particules",
+            "description": "Learn about the fundamental particles of the universe, their interactions, and the forces that govern them.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "7bfccab7-baf8-4c2c-b100-fcf4ac8eece0",
+            "title": "Module 15: Révisions et évaluations finales",
+            "description": "Review the principles studied in the course and apply them in a comprehensive final assessment.",
+            "live_preview": false,
+            "lessons": []
+        }
+    ]
+}

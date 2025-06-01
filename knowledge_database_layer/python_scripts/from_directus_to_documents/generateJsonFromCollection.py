@@ -92,7 +92,6 @@ for selected_course in courses:
             }
 
             assignments = client.get_items(assignment_collection_name, assignment_filter)
-            print(assignments)
             resources = client.get_items(resource_collection_name, resource_filter)
             
             # Add assignments data

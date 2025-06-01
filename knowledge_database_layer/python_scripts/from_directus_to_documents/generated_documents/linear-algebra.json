@@ -1,0 +1,177 @@
+{
+    "id": "9e86e313-101f-4d3d-b9c4-5c734bfd8d77",
+    "title": "Principles of Linear Algebra",
+    "slug": "linear-algebra",
+    "status": "draft",
+    "description": "undefined",
+    "description_long": null,
+    "live_preview": false,
+    "modules": [
+        {
+            "id": "4502d934-67e9-452d-9e9c-4f2ef85777d7",
+            "title": "Module 1: Introduction to Linear Algebra",
+            "description": "An overview of the basic concepts of linear algebra and their applications.",
+            "live_preview": false,
+            "lessons": [
+                {
+                    "id": "fa1bc6de-8a81-4e72-b06e-33ba5dcaa4de",
+                    "title": "Lesson 2: Understanding Matrices and Vectors",
+                    "slug": "understanding-matrices-and-vectors",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "e7023c70-3b6a-4ce9-87f4-c4c8f4304587",
+                    "title": "Lesson 4: Exploring Linear Transformations",
+                    "slug": "exploring-linear-transformations",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "ba93b938-ca65-4f3b-ae3f-d8b7b183e09c",
+                    "title": "Lesson 5: Unraveling Eigenvalues and Eigenvectors",
+                    "slug": "unraveling-eigenvalues-and-eigenvectors",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "04e36ca9-24e8-4f2f-9325-6c3a6fa52c34",
+                    "title": "Lesson 3: Diving into Matrix Operations",
+                    "slug": "diving-into-matrix-operations",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": null,
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                },
+                {
+                    "id": "628fbc0f-7166-4660-b88a-ec0decba45e0",
+                    "title": "Lesson 1: Unveiling the Basics of Linear Algebra",
+                    "slug": "unveiling-the-basics-of-linear-algebra",
+                    "video_url": null,
+                    "video_duration": null,
+                    "video_transcript": null,
+                    "content": "<section>\n    <h2>Lesson 1: Unveiling the Basics of Linear Algebra</h2>\n    <p>Linear Algebra is a branch of mathematics that is fundamental to various fields including engineering, physics, computer science, and more. It deals with vectors, matrices, and linear transformations and serves as a foundation for understanding complex mathematical concepts.</p>\n\n    <h3>Introduction to Linear Algebra</h3>\n    <p>The primary focus of linear algebra is to solve systems of linear equations. This is accomplished through the study of vectors, vector spaces, linear maps, and matrices. Understanding these key components is essential for delving deeper into the subject.</p>\n\n    <h3>Key Concepts</h3>\n    <h4>Vectors</h4>\n    <p>Vectors are quantities defined by both a magnitude and a direction. They are often represented as an array of numbers which dictates their position in space. For example, a vector in two-dimensional space can be denoted as <code>v = [v1, v2]</code>.</p>\n\n    <h4>Matrices</h4>\n    <p>Matrices are rectangular arrays of numbers arranged in rows and columns. They are useful for representing linear transformations and solving systems of linear equations. A matrix can be written as:</p>\n    <p><code>A = [[a11, a12], [a21, a22]]</code></p>\n\n    <h4>Linear Transformations</h4>\n    <p>Linear transformations are functions that map vectors to other vectors in a linear manner. They preserve vector addition and scalar multiplication operations. Understanding these transformations is crucial for applying linear algebra to real-world problems.</p>\n\n    <h4>Systems of Linear Equations</h4>\n    <p>A system of linear equations consists of multiple equations that can be solved simultaneously. These systems are commonly expressed in matrix form, facilitating efficient computation and solution finding:</p>\n    <pre>\n        Ax = b\n    </pre>\n    <p>Here, <code>A</code> is the matrix representing coefficients, <code>x</code> is the column vector of variables, and <code>b</code> is the column vector of constants.</p>\n\n    <h3>Applications of Linear Algebra</h3>\n    <p>Linear algebra is applied in various domains such as:</p>\n    <ul>\n        <li><strong>Computer Graphics:</strong> Transformation and manipulation of images and graphics.</li>\n        <li><strong>Machine Learning:</strong> Formulating models and performing calculations on large datasets.</li>\n        <li><strong>Engineering:</strong> Analyzing and modeling physical systems with differential equations.</li>\n    </ul>\n\n    <h3>Conclusion</h3>\n    <p>Understanding the basics of linear algebra sets a solid foundation for exploring more advanced topics. It provides the tools necessary for mathematical modeling, problem-solving, and dealing with complex systems in various scientific and engineering fields. As we progress through this course, we will delve deeper into each of these concepts and explore their real-world applications.</p>\n</section>",
+                    "live_preview": false,
+                    "assignments": [],
+                    "resources": []
+                }
+            ]
+        },
+        {
+            "id": "4968d9b0-7d2e-4e38-ac8f-1d6f407e79e4",
+            "title": "Module 2: Vectors and Spaces",
+            "description": "Understanding the key aspects of vectors and vector spaces.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "8c8e0625-4872-44a1-a31d-558d85dafede",
+            "title": "Module 3: Matrices",
+            "description": "Exploring the properties and operations of matrices.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "b309090d-76aa-4464-b5c1-19b703d691d1",
+            "title": "Module 4: Linear Transformations",
+            "description": "Learning about the significance and mechanics of linear transformations.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "54ec02db-8503-4c97-8f08-9a29ac869667",
+            "title": "Module 6: Orthogonality",
+            "description": "Understanding orthogonality and its applications in linear algebra.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "45e7aec7-bbaa-4366-85e0-5731b5e7a3bd",
+            "title": "Module 7: Determinants",
+            "description": "Exploring the concept of determinants and their role in linear algebra.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "ece4f0bc-ca3b-4c18-9f7d-00558a46cee9",
+            "title": "Module 8: Diagonalization",
+            "description": "Understanding diagonalization and its properties.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "0f30cf38-1d1b-4193-9665-fe3ace8a815e",
+            "title": "Module 9: Inner Product Spaces",
+            "description": "A comprehensive study of inner product spaces and their properties.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "f529fee9-850d-4f20-98c6-bf219c63d93d",
+            "title": "Module 11: Complex Vector Spaces",
+            "description": "Understanding the properties and applications of complex vector spaces.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "fe3a7302-77a8-49c7-a6c9-513fe2db4c79",
+            "title": "Module 12: Linear Algebra in Engineering",
+            "description": "Exploring the applications of linear algebra in various fields of engineering.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "9bb553a8-56fc-4b7c-84cf-4d4d055d80bf",
+            "title": "Module 13: Linear Algebra in Computer Science",
+            "description": "Understanding how linear algebra is used in computer science.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "f59149e8-7a27-4fb9-af1b-60a8478ea066",
+            "title": "Module 14: Linear Algebra in Data Science",
+            "description": "Exploring the role of linear algebra in data analysis and machine learning.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "f2489533-3774-4088-86d4-8c58cd652db6",
+            "title": "Module 10: Quadratic Forms",
+            "description": "Learning about quadratic forms and their role in linear algebra.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "8014eac4-0bc5-4dc3-ab7a-b4cb1c8abcbd",
+            "title": "Module 15: Review and Final Assessment",
+            "description": "A comprehensive review of the course and a final assessment to test your understanding of linear algebra.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "a6d401b8-4b40-4718-95f4-08aa1df1b8a3",
+            "title": "Module 5: Eigenvalues and Eigenvector",
+            "description": "A deep dive into the concepts and applications of eigenvalues and eigenvector",
+            "live_preview": false,
+            "lessons": []
+        }
+    ]
+}
