@@ -1,0 +1,228 @@
+{
+    "id": "a662a308-b4a3-4142-bd8a-36b77e02f6aa",
+    "title": "physique 1S",
+    "slug": "physics-1s",
+    "status": "draft",
+    "description": "cfchjn",
+    "description_long": null,
+    "live_preview": false,
+    "modules": [
+        {
+            "id": "1d24eca1-4c14-45bf-8d65-5caee3207902",
+            "title": "Module 10: Gravité",
+            "description": "Examen détaillé de la gravité, des lois de Kepler et de la théorie de la relativité d'Einstein.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "7427f1fd-7d13-4f7c-b119-0bd5bb937b1a",
+            "title": "Module 9: Rotation",
+            "description": "Introduction à la rotation, au moment d'inertie et au mouvement angulaire.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "4a1a0b58-9a31-4ff4-a1fd-1c3a6ddc1e5e",
+            "title": "Module 2 Lois fondamentales de la physique",
+            "description": "Apprenez les lois fondamentales qui régissent l'univers physique",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "e46e3932-0e5d-43fd-9fbe-e7513df0aaaf",
+            "title": "Module 5 Gravité et champ magnétique",
+            "description": "Découvrez les principes de la gravité et du champ magnétique et leur importance en physique",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "2916eaff-3559-4b88-83f3-860299298423",
+            "title": "Module 11 Relativité",
+            "description": "Apprenez les principes de base de la relativité et comment ils ont transformé notre compréhension de la physique",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "a97ece78-78be-4e7f-9aec-c806789e1969",
+            "title": "Module 14 Astrophysique",
+            "description": "Apprenez les principes de base de l'astrophysique, du mouvement des planètes aux trous noirs",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "600c71f1-c297-42d4-b224-bbe76483812b",
+            "title": "Module 7: Conservation de l'énergie",
+            "description": "Apprendre le principe de conservation de l'énergie et ses applications.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "9643443a-5d4e-4dd8-a540-52c399915f7a",
+            "title": "Module 8: Momentum et collision",
+            "description": "Étude du momentum et de la collision dans le contexte de la physique.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "ce45d638-bae0-43e7-9aab-02f1cf8e2859",
+            "title": "Module 13: Oscillations et ondes mécaniques",
+            "description": "Comprendre les concepts d'oscillation, de période, de fréquence, d'onde et de vitesse de l'onde.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "e2b15e8f-a3b8-434e-a091-94b10680a6f7",
+            "title": "Module 11: Fluides",
+            "description": "Comprendre les propriétés des fluides, la flottabilité et l'hydrodynamique.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "5b573c9a-5cb7-47e1-a1e1-579319199c3d",
+            "title": "Module 1 Introduction à la physique",
+            "description": "Découvrez le monde fascinant de la physique, sa pertinence et son application dans notre vie quotidienne",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "0050ef45-10a9-4822-a698-e751b2b8e0ca",
+            "title": "Module 8 Thermodynamique",
+            "description": "Comprendre les lois de la thermodynamique et leur application",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "dc463506-e388-40ca-9918-f9ac60924844",
+            "title": "Module 12 Physique nucléaire",
+            "description": "Explorez le monde de la physique nucléaire, des isotopes aux réactions nucléaires",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "d92bc497-ee1e-4dd8-83e2-a45376b90ad4",
+            "title": "Module 15 Conclusion et examen final",
+            "description": "Révisez ce que vous avez appris tout au long du cours et préparez-vous pour l'examen final",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "9f0ce952-efe9-45a1-84a4-f0a81e6d9b4d",
+            "title": "Module 12: Thermodynamique",
+            "description": "Etude des lois de la thermodynamique et de la mécanique statistique.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "fa1b90c7-919b-401c-9eb4-e8a58d51e025",
+            "title": "Module 14: Ondes sonores",
+            "description": "Etude de la production, de la propagation et de la perception des ondes sonores.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "cf5cfe59-7c1e-4d57-86a3-1883ba3ceb7c",
+            "title": "Module 3 Mouvement et forces",
+            "description": "Explorez les concepts de mouvement et de force, et comment ils interagissent",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "232a6ae0-479d-4da7-92f3-a176ffeb526d",
+            "title": "Module 7 Optique",
+            "description": "Explorez les phénomènes lumineux et leurs propriétés",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "751fbb7e-f399-4987-ad9b-c729077e8177",
+            "title": "Module 10 Mécanique quantique",
+            "description": "Introduction à la mécanique quantique et ses implications dans le monde physique",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "727a7e90-99e6-43dd-bc48-60e75de98aca",
+            "title": "Module 4 Énergie et travail",
+            "description": "Comprendre les concepts d'énergie et de travail dans le contexte de la physique",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "2d06fe95-2d82-4d2e-83c0-28c3c01c92ee",
+            "title": "Module 6 Électrostatique",
+            "description": "Apprenez les principes de base de l'électrostatique et son application",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "54e72415-0ab2-4754-a746-6688ccda13ac",
+            "title": "Module 9 Ondes et vibrations",
+            "description": "Découvrez les principes des ondes et des vibrations en physique",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "05fd2e73-556e-4c82-84cb-01730439076f",
+            "title": "Module 13 Physique des particules",
+            "description": "Découvrez le monde fascinant des particules élémentaires et leurs interactions",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "429fa732-c6c5-4ca1-87cc-76c8e9f446ed",
+            "title": "énergétique",
+            "description": null,
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "a35d2b59-a4a3-405d-903a-349f6f992cd7",
+            "title": "Module 2: Les lois de Newton",
+            "description": "Explication détaillée des trois lois de Newton et leur application.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "1e999d4b-0e69-4940-b9ec-ee83460af7cc",
+            "title": "Module 3: Cinématique",
+            "description": "Étude des mouvements des objets sans considération des causes qui les produisent.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "4d59c720-5c21-4741-8af4-1cd15215cde4",
+            "title": "Module 5: Travail et énergie",
+            "description": "Comprendre les concepts de travail, d'énergie et de puissance en physique.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "2016be57-38f5-4640-8016-b8a3c1f2dac8",
+            "title": "Module 15: Révision générale",
+            "description": "Révision de tous les concepts abordés tout au long du cours pour une meilleure préparation à l'examen final.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "376b39ed-ffa9-4c4d-b2c0-260fd53b4ca2",
+            "title": "Module 1: Introduction à la physique",
+            "description": "Comprendre les bases de la physique, son importance et son application dans la vie quotidienne.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "c55ac4bb-0943-414e-8360-aaa5ff927212",
+            "title": "Module 4: Dynamique",
+            "description": "Étude des forces et des mouvements qu'elles produisent.",
+            "live_preview": false,
+            "lessons": []
+        },
+        {
+            "id": "3e82c656-fbb2-4150-9d47-36bd58fc9ece",
+            "title": "Module 6: Énergie potentielle et énergie cinétique",
+            "description": "Étudier les types d'énergie et la relation entre l'énergie potentielle et l'énergie cinétique.",
+            "live_preview": false,
+            "lessons": []
+        }
+    ]
+}
