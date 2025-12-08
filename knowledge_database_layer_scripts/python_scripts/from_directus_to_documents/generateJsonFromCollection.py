@@ -3,7 +3,7 @@ import json
 from directus_sdk_py import DirectusClient
 
 # Initialize Directus client
-client = DirectusClient(url="https://lms.tecktal.ai/", token="gE-Rd6oO2pbkolA8keNtihRnBs7qbU7m")
+client = DirectusClient(url="", token="")
 
 # Define collection names
 course_collection_name = "lms_courses"

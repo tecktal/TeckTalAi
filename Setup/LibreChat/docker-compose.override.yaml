@@ -1,0 +1,12 @@
+services:
+  api:
+    volumes:
+      - type: bind
+        source: ./librechat.yaml
+        target: /app/librechat.yaml
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    command: >
+      sh -c "npm install -g @directus/content-mcp@latest --force &&
+             npm cache clean --force &&
+             node api/server/index.js"

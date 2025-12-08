@@ -1,0 +1,89 @@
+services:
+  directus:
+    image: directus/directus:11.13.4
+    ports:
+      - 8055:8055
+    environment:
+      KEY: ${KEY}
+      ADMIN_EMAIL: ${ADMIN_EMAIL}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD}
+      DB_CLIENT: ${DB_CLIENT}
+      DB_HOST: ${DB_HOST}
+      DB_PORT: ${DB_PORT}
+      DB_DATABASE: ${DB_DATABASE}
+      DB_USER: ${DB_USER}
+      DB_PASSWORD: ${DB_PASSWORD}
+      CORS_ENABLED: 'true'
+      CORS_ORIGIN: 'true'
+      CORS_METHODS: 'GET,POST,PATCH,DELETE,OPTIONS'
+      CORS_ALLOWED_HEADERS: 'Content-Type,Authorization'
+      CORS_EXPOSED_HEADERS: 'Content-Range'
+      FILES_MAX_UPLOAD_SIZE: '1000MB'
+      FILES_MIME_TYPE_ALLOW_LIST: 'application/pdf,image/jpeg,image/png,image/gif'
+      EXTENSIONS_PATH: '/directus/extensions'
+      CONTENT_SECURITY_POLICY_DIRECTIVES__SCRIPT_SRC: "'self' 'unsafe-eval' 'unsafe-inline' https:"
+      CONTENT_SECURITY_POLICY_DIRECTIVES__FRAME_SRC: "'self' https:"
+      CONTENT_SECURITY_POLICY_DIRECTIVES__CONNECT_SRC: "'self' https:"
+      CONTENT_SECURITY_POLICY_DIRECTIVES__IMG_SRC: "'self' data: https:"
+      CONTENT_SECURITY_POLICY_DIRECTIVES__FONT_SRC: "'self' data: https:"
+      CONTENT_SECURITY_POLICY_DIRECTIVES__STYLE_SRC: "'self' 'unsafe-inline' https:"
+    volumes:
+      - ./directus_data:/directus/database
+      - ./extensions:/directus/extensions
+      - ./uploads:/directus/uploads
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_DB: ${DB_DATABASE}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - ./postgres_data:/var/lib/postgresql/data
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - ./qdrant_storage:/qdrant/storage
+    environment:
+      QDRANT__SERVICE__HTTP_PORT: 6333
+      QDRANT__SERVICE__GRPC_PORT: 6334
+    restart: unless-stopped
+
+  rag-service:
+    build: ./rag-service
+    ports:
+      - "8000:8000"
+    environment:
+      QDRANT_HOST: "qdrant"
+      QDRANT_PORT: "6333"
+      OPENAI_API_KEY: "${OPENAI_API_KEY}"
+    volumes:
+      - ./uploads:/app/uploads:ro
+      - ./rag-service/model_cache:/root/.cache/huggingface
+    depends_on:
+      - qdrant
+    restart: unless-stopped
+
+  pdf-service:
+    build: ./pdf-service
+    container_name: directus-pdf-service
+    ports:
+      - "8001:8001"
+    environment:
+      POSTGRES_HOST: "postgres"
+      POSTGRES_DB: ${DB_DATABASE}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - ./uploads:/directus/uploads
+    depends_on:
+      - postgres
+    restart: unless-stopped

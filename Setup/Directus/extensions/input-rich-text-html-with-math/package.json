@@ -1,0 +1,39 @@
+{
+	"name": "input-rich-text-html-with-math",
+	"description": "Rich text editor with MathJax support for Directus",
+	"icon": "extension",
+	"version": "1.0.0",
+	"keywords": [
+		"directus",
+		"directus-extension",
+		"directus-extension-interface"
+	],
+	"type": "module",
+	"files": [
+		"dist"
+	],
+	"directus:extension": {
+		"type": "interface",
+		"path": "dist/index.js",
+		"source": "src/index.ts",
+		"host": "^10.10.0"
+	},
+	"scripts": {
+		"build": "directus-extension build",
+		"dev": "directus-extension build -w --no-minify",
+		"link": "directus-extension link",
+		"validate": "directus-extension validate"
+	},
+	"dependencies": {
+		"@tinymce/tinymce-vue": "^5.1.1",
+		"lodash": "^4.17.21",
+		"tinymce": "^6.8.3"
+	},
+	"devDependencies": {
+		"@directus/extensions-sdk": "16.0.0",
+		"@types/lodash": "^4.14.202",
+		"sass": "^1.90.0",
+		"typescript": "^5.9.2",
+		"vue": "^3.5.18"
+	}
+}

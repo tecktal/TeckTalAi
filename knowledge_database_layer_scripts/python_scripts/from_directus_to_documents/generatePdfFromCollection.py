@@ -3,7 +3,7 @@ import os
 from directus_sdk_py import DirectusClient
 
 # Initialize Directus client
-client = DirectusClient(url="https://lms.tecktal.ai/", token="6HZNyNOEL4d-oKLbHRafYbliDEZ3LIWj")
+client = DirectusClient(url="", token="")
 
 # Define collection names
 course_collection_name = "lms_courses"
